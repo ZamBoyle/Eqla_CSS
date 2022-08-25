@@ -23,3 +23,6 @@ p{
     color:white;
     background-color: black;
     }
+#where {
+    text-transform: uppercase;
+}
