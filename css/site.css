@@ -1,3 +1,24 @@
 h1 {
     color: red;
+    font-size: 45px;
+    text-align: center;
+}
+
+h2, h3 {
+    font-style: italic;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+#main {
+    border:solid;
+    padding: 20px;
+    margin: 20px;
+}
+
+.papa {
+    font-size: 50px;
 }
